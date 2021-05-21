@@ -38,15 +38,15 @@ For this project, I was interestested in using the latest availabe AirBnB data f
 
 * The data for this project was sourced from http://insideairbnb.com/get-the-data.html as follows:
 
-http://data.insideairbnb.com/united-states/wa/seattle/2021-03-18/visualisations/listings.csv
+### Seattle, Washington, United States
 
-* saved as listings_seattle.csv.
+* `listings.csv` downloaded and saved as 'listings_seattle.csv'.
 
 * This is a csv file containing summary information and metrics for listings in Seattle, and was created on 18 March, 2021.
 
-http://data.insideairbnb.com/united-states/ma/boston/2021-04-20/visualisations/listings.csv
+### Boston, Massachusetts, United States
 
-* saved as listings_boston.csv
+* `listings.csv` downloaded and saved as 'listings_boston.csv'.
 
 * This is a csv file containing summary information and metrics for listings in Boston, and was created on 20 April, 2021
 
