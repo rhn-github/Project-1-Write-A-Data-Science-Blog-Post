@@ -85,7 +85,7 @@ Addition inforation regarding public transportation in the two cities was resear
 
 Images:
 
-from [here](http://insideairbnb.com/about)
+from [here](http://insideairbnb.com/about.html)
 
 and [here](https://commons.wikimedia.org/wiki/File:Airbnb_Logo_B%C3%A9lo.svg)
 
